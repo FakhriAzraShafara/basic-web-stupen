@@ -1,6 +1,7 @@
 .bg-page {
     background-color: blueviolet;
     color: white;
+    padding: 20px;
 }
 
 .box-output{
@@ -10,10 +11,22 @@
     flex-wrap: wrap;
 }
 
+.post_button{
+    width: 100px;
+    background-color: coral;
+    border-radius: 10px;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
 .card-item{
     width: 150px;
     border: 1px solid black;
     text-align: center;
+    margin: 5px;
+
 }
 
 .img-item{
