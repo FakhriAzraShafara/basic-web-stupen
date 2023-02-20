@@ -1,0 +1,22 @@
+.bg-page {
+    background-color: blueviolet;
+    color: white;
+}
+
+.box-output{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.card-item{
+    width: 150px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.img-item{
+    width: 100px;
+    height: 100px;
+}
